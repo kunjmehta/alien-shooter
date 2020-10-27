@@ -4,30 +4,27 @@
 </p>
 
 <h1 align="center">Alien Shooter</h1>
-<div align="center">
 
-[![Python version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/kunjmehta/alien-shooter/issues)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HitCount](http://hits.dwyl.io/kunjmehta/alien-shooter.svg)](http://hits.dwyl.io/kunjmehta/alien-shooter)
+<h5 align = "center">The good ol' <strong>Space Invaders</strong> game developed using Pygame</h5>
 
-<h5>The good ol' <strong>Space Invaders</strong> game developed using Pygame</h5>
-
-</div>
 
 -----------------------------------------
-### Inspiration
+### Motivation, Challenge & Accomplishment
 
-* On my journey of seeing what the hype about Python is all about and learning it, I came across a book 'Python Crash Course' and this game is inspired from the boilerplate project given in the book. 
+* **Motivation:** On my journey of seeing what the hype about Python is all about and learning it, I came across a book 'Python Crash Course' and this game is inspired from the boilerplate project given in the book.
 
-* A few tweaks and a few additions to the original version in the book resulted in this game. The most noticeable addition is instead of only one mode, there are 3.
+* **Challenge:** Extending the boilerplate code given in the book and making it my own. This was the first time I had worked with a large project in Python as far as
+object oriented architecture was concerned. I had to keep in mind all the files, classes and methods and achieve the desired functionality.
+
+* **Accomplishment:** Developed 3 modes of gaming instead of just one in the boilerplate code given in the book. Additionally, was able to code keeping in mind the
+PEP8 guidelines.
 
 ------------------------------------------
-### Requirements
+### Tech Stack
 
-- Python 3.7+ needs to be installed.
+- **Python 3.7+** needs to be installed.
 Get the latest version [here](https://www.python.org/downloads/release/python-372/)
-- Pygame needs to be installed. Execute this command in CLI: `python -m pip install pygame`
+- **Pygame** needs to be installed. Execute this command in CLI: `python -m pip install pygame`
 
 
 ***
